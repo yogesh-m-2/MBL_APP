@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MBLFoods</string>
+    <string-array name="dropdown_options">
+            <item>Option 1</item>
+            <item>Option 2</item>
+            <item>Option 3</item>
+            <!-- Add more options as needed -->
+    </string-array>
+
+
+</resources>

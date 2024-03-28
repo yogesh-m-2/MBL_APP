@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073577142554",
+    "project_id": "mblfoods",
+    "storage_bucket": "mblfoods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073577142554:android:2cf15af453973236c4a4a3",
+        "android_client_info": {
+          "package_name": "com.example.mblfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073577142554-2l0kams516jpckvhhvgiaa6vs5626jme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgWLqs0mvy8_tXZcEQ3ConSrIRgwuENpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073577142554-2l0kams516jpckvhhvgiaa6vs5626jme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
